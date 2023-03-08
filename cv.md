@@ -2,7 +2,6 @@
 
 ### Contacts 
 * *Phone:* +375445432434
-* *LinkenIn:* https://www.linkedin.com/in/olga-seledtsova/
 * *gitHub:* https://github.com/olgaseled9
 * *Discord:* Olya#3519
 
