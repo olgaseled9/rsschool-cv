@@ -2,7 +2,7 @@
 
 ### Contacts 
 * *Phone:* +375445432434
-* *gitHub:* https://github.com/olgaseled9
+* *gitHub:* olgaseled9
 * *Discord:* Olya#3519
 
 ### About me
