@@ -18,6 +18,20 @@ ongoing projects. I am open-minded, communicative and a great team-player.*
 * *IT-Academy: Java Enterprise Development and Java Fundamentals courses*
 * Academy of Public Administration under the Aegis of the President of the Republic of Belarus: Economist-manager*
 
+### Code Example
+
+* Java
+```
+   String text = "Hi! I'm starting to learn JavaScript]!";
+   System.out.println(text);
+```
+   
+* JavaScript       
+```
+      let text = "Hi! I'm starting to learn JavaScript!";
+      console.log(text)
+```      
+
 ### Languages
 * *Russian (native)*
 * *English (B2)*
